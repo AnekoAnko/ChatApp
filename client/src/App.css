@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#message {
+  display: inline-block;
+  border-radius: 5px;
+  text-align: left;
+  margin: 8px;
+  padding: 10px;
+  word-wrap: break-word;
+}
+
+#input {
+  margin-top: 10px;
+}
+
+#messageInput {
+  margin-top: 20px;
+  width: 50px;
+  resize: none;
+  padding: 0px;
+  border: 0px;
+  width: 100%;
+  background-color: rgb(141, 141, 141);
+}
